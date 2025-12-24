@@ -85,7 +85,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: '&mac_to_ru', h: raise}
+  - {t: '&win_to_ru', h: raise}
   raise:
   - settings
   - KP SLASH
